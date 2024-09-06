@@ -23,7 +23,7 @@ export default function ArtistsTreeMap({ albums }: ArtistsTreeMapProps) {
   }));
 
   return (
-    <ChartWrapper title="Artisti nella collezione">
+    <ChartWrapper title="Artists in your collection">
       <ResponsiveContainer width="100%" height="100%">
         <Treemap data={data} dataKey="size" aspectRatio={4 / 3} stroke="#fff" fill="#8884d8">
           <Tooltip

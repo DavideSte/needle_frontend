@@ -75,7 +75,7 @@ export default function TrackOwnedAlbums({ albums }: TrackOwnedAlbumsProps) {
   }, {} as Record<string, number>);
 
   return (
-    <ChartWrapper title="Album nella collezione">
+    <ChartWrapper title="Albums in your collection">
       <div className="w-full h-full flex flex-col justify-center gap-2">
         <div className="flex flex-col justify-center items-center gap-2  h-full">
           <PieChart width={210} height={110}>

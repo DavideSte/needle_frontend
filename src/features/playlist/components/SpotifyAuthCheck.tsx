@@ -34,7 +34,7 @@ export default function SpotifyAuthCheck() {
   }, []);
 
   if (isUninitialized || isLoading || isLoadingRefresh) {
-    return <Loader message="Checkin if already checked in with Spotify..." />;
+    return <Loader message="Checking if already logged in with Spotify..." />;
   }
 
   // means that refresh token failed

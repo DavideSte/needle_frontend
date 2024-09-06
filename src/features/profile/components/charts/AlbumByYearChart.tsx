@@ -22,7 +22,7 @@ export default function AlbumByYearChart({ albums }: AlbumByYearChartProps) {
   }));
 
   return (
-    <ChartWrapper title="Album per anno">
+    <ChartWrapper title="Albums by year">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart
           data={data}

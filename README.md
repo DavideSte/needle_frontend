@@ -39,7 +39,7 @@
 
 ## About The Project
 
-Needle is a Single Page Application (SPA) that allows you to create a virual collection of all your favorite records. It was born with the idea to keep track of your collection and implements also extra feature, like the generation of playlist directly on Spotify, starting from the albums you choose.
+Needle is a Single Page Application (SPA) that allows you to create a virual collection of all your favorite records. It was born with the idea to keep track of your collection, also it implements extra features like the generation of playlist directly on Spotify, starting from the albums you choose.
 The name "Needle" itself is a pun, since it is indeed the little needle on turntable, but its pronunciation also recall the words "Need All", to express the wish of get them all.
 
 ### Technologies Used
@@ -53,9 +53,9 @@ The name "Needle" itself is a pun, since it is indeed the little needle on turnt
 
 ### Features
 
-- **Search Albums**: Users can make search based on Album titles, Songs or Artists. Once you get your results, you can add records to your personal collection by clicking the bookmark icon or click on the heart icon to add them to your wish list.
-- **Dashboard**: In the homepage, you can find some dashboard that give you further information about the composition of your virtual collection.
-- **Playlist**: Once the collection is populated, you'll have access to the main feature of the application, namely the creation of playlist directly on your Spotify account. You will be presented with a page containing all the albums you collected, and will be able to to filter them by name, choose only the one you own, or the one in your wish list. After your selection is completed, you will also be able to exclude some of the tracks from the albums you want.
+- **Search Albums**: Users can make searches based on Album titles, Songs or Artists. Once you get your results, you can add records to your personal collection by clicking the bookmark icon or click on the heart icon to add them to your wish list.
+- **Dashboard**: In the homepage, you can find several dashboards that give you further information about the composition of your virtual collection.
+- **Playlist**: Once the collection is populated, you'll have access to the main feature of the application, namely the creation of playlist directly on your Spotify account. You will be presented with a page containing all the albums you have collected, and will be able to to filter them by name, choose only the one you own, or the one in your wish list. After your selection is completed, you will also be able to exclude some of the tracks from the albums you want.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
